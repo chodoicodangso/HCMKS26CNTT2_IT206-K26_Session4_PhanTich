@@ -1,13 +1,13 @@
 ### BƯỚC 1: 2 MẪU PROMPT
 
 * **Giải pháp 1:**
-  > *"Đọc email suy luận từng bước để tìm mã đơn, lỗi sản phẩm, đối chiếu chính sách bảo hành 12 tháng (không bảo hành rơi vỡ/vào nước) rồi viết email phản hồi khách."*
+*"Đọc email suy luận từng bước để tìm mã đơn, lỗi sản phẩm, đối chiếu chính sách bảo hành 12 tháng (không bảo hành rơi vỡ/vào nước) rồi viết email phản hồi khách."*
 
 * **Giải pháp 2 :**
-  > *"Xử lý email theo 3 bước tuần tự:
-  > - **B1 :** Tìm [Mã đơn] và [Lỗi]. Thiếu 1 trong 2 -> xuất `STATUS=ERROR` và DỪNG xét duyệt. Đủ -> `STATUS=OK`.
-  > - **B2 :** Chỉ chạy khi `STATUS=OK`. Đối chiếu [Lỗi] với chính sách để chốt `DUYỆT` hoặc `TỪ CHỐI`.
-  > - **B3 :** Nếu `ERROR`, chỉ viết email hỏi thông tin thiếu (cấm tự suy đoán). Nếu `OK`, viết email báo kết quả B2."*
+*"Xử lý email theo 3 bước tuần tự:
+- **B1 :** Tìm [Mã đơn] và [Lỗi]. Thiếu 1 trong 2 -> xuất `STATUS=ERROR` và DỪNG xét duyệt. Đủ -> `STATUS=OK`.
+- **B2 :** Chỉ chạy khi `STATUS=OK`. Đối chiếu [Lỗi] với chính sách để chốt `DUYỆT` hoặc `TỪ CHỐI`.
+- **B3 :** Nếu `ERROR`, chỉ viết email hỏi thông tin thiếu (cấm tự suy đoán). Nếu `OK`, viết email báo kết quả B2."*
 
 ---
 
