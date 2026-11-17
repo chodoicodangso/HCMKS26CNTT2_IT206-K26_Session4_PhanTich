@@ -25,6 +25,6 @@
 **Kết quả chạy thử (Input bẫy thiếu mã đơn):**
 **Input:** *"Tai nghe tôi mới mua tự nhiên không lên nguồn, đổi cái mới cho tôi nhé!"*
 **Output AI:** 
- *B1:* Thiếu [Mã đơn], Lỗi: không lên nguồn $\rightarrow$ `STATUS=ERROR`.
- *B2:* *(Ngắt - Không chạy)*.
- *B3:* *"Chào bạn, rất tiếc về sự cố tai nghe. Bạn vui lòng cung cấp **Mã đơn hàng** để shop kiểm tra bảo hành và hỗ trợ bạn ngay nhé!"*
+ B1: Thiếu [Mã đơn], Lỗi: không lên nguồn $\rightarrow$ `STATUS=ERROR`
+ B2: (Ngắt - Không chạy).
+ B3: "Chào bạn, rất tiếc về sự cố tai nghe. Bạn vui lòng cung cấp **Mã đơn hàng** để shop kiểm tra bảo hành và hỗ trợ bạn ngay nhé!"
