@@ -1,7 +1,7 @@
 ### BƯỚC 1: 2 MẪU PROMPT
 
 * **Giải pháp 1:**
-*"Đọc email suy luận từng bước để tìm mã đơn, lỗi sản phẩm, đối chiếu chính sách bảo hành 12 tháng (không bảo hành rơi vỡ/vào nước) rồi viết email phản hồi khách."*
+"Đọc email suy luận từng bước để tìm mã đơn, lỗi sản phẩm, đối chiếu chính sách bảo hành 12 tháng (không bảo hành rơi vỡ/vào nước) rồi viết email phản hồi khách."
 
 * **Giải pháp 2 :**
 *"Xử lý email theo 3 bước tuần tự:
