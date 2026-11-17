@@ -9,8 +9,6 @@
 - **B2 :** Chỉ chạy khi `STATUS=OK`. Đối chiếu [Lỗi] với chính sách để chốt `DUYỆT` hoặc `TỪ CHỐI`.
 - **B3 :** Nếu `ERROR`, chỉ viết email hỏi thông tin thiếu (cấm tự suy đoán). Nếu `OK`, viết email báo kết quả B2."*
 
----
-
 ### BƯỚC 2: BẢNG SO SÁNH TRADE-OFF
 
 | Tiêu chí | Giải pháp 1 (Đơn giản) | Giải pháp 2 (Chi tiết) | Đánh giá Trade-off |
@@ -19,7 +17,6 @@
 | **Tốn token** | **Ít** (~40 tokens). | **Nhiều hơn** (~110 tokens). | Tốn chi phí hơn nhưng tránh thiệt hại do sai nghiệp vụ. |
 | **Chặn lỗi biên** | **Trung bình** (Dễ bịa thông tin khi thiếu dữ liệu). | **Cực tốt** (Ngắt chuỗi an toàn bằng cờ `ERROR`). | Chặn đứng hiệu ứng "đứt gãy chuỗi" khi gặp input rác/thiếu. |
 
----
 
 ### BƯỚC 3: LỰA CHỌN VÀ CHẠY THỬ
 
